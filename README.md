@@ -1,6 +1,6 @@
-# 4096void-vue-template
+# 自用快速模版
 
-> 4096void's vue quick template
+> 添加：`flexible` `vconsole` `responsive` `wechat sdk` `fastclick` 等常用功能，check `index.html` fro more details.
 
 ## Build Setup
 
@@ -19,6 +19,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-## Addons
-Check `index.html` for more details.
