@@ -1,6 +1,6 @@
 # 自用快速模版
 
-> 添加：`flexible` `vconsole` `responsive` `wechat sdk` `fastclick` 等常用功能，check `index.html` fro more details.
+> 添加：`flexible` `IE compatibility` `vconsole` `responsive` `wechat sdk` `fastclick` `query.debug to trigger debug mode` 等常用功能，check `index.html` fro more details.
 
 ## Build Setup
 
