@@ -1,6 +1,31 @@
-# 自用快速模版
+# Vue Quick Template
+[![Build Status](https://travis-ci.org/4096void/vue.quick.template.svg?branch=master)](https://travis-ci.org/4096void/vue.quick.template)
+## Features
 
-> 添加：`flexible` `IE compatibility` `vconsole` `responsive` `wechat sdk` `fastclick` `query.debug to trigger debug mode` 等常用功能，check `index.html` fro more details.
+- `flexible.js` highly responsive
+- `IE compatibility`
+- `vconsole.js` add `[?|&]debug=yes` to URL to enable debug mode
+- `wechat sdk`
+- `fastclick.js`
+- powerful `jade + vue template syntax`
+
+## Usage
+
+```bash
+# Clone template to your machine
+$ git clone git@github.com:4096void/vue.quick.template.git your_project_name
+
+# Cd to your project
+$ cd your_project_name/
+
+# Delete template's git files
+$ rm -rf ./.git/
+
+# Reinit your project
+$ git init .
+
+# Here we go ...
+```
 
 ## Build Setup
 
