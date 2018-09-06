@@ -11,10 +11,10 @@
 
 ## Usage
 
-![usage.img](https://i.loli.net/2018/09/06/5b90974f29e90.png)
+![usage.img](https://i.loli.net/2018/09/06/5b909a7981009.png)
 
 ## Build Setup
 
-![setup.image](https://i.loli.net/2018/09/06/5b90974f1eaa3.png)
+![setup.image](https://i.loli.net/2018/09/06/5b909a796e53e.png)
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
